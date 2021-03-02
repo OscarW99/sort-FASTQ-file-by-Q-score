@@ -10,4 +10,4 @@ above30.fastq
 
 below30.fastq
 
-Make sure fastq input file is in the same directory as this script. 
+Make sure .fastq input file is in the same directory as this script before running. 
